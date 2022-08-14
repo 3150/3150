@@ -17,3 +17,8 @@ I have been writing codes with Ruby, Go, JavaScript, TypeScript etc for about 6 
 
 ### Links
 - [Linkedin](https://www.linkedin.com/in/takaaki-kanetsuki/)
+
+### Education
+- Kumamoto University (April, 2015 - March, 2020)
+  - Japanese national university located in Kumamoto, Japan
+  - I majored in both mechanical engineering and Japanese Law.
